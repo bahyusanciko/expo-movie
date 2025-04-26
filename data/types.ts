@@ -4,7 +4,6 @@ export type Movie = {
   year: string;
 };
 
-
 export type CardMovieProps = {
   item: {
     title: string;
